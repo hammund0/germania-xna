@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="GermGame">
+</Property><Property Name="Solution File" Value="C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame.sln">
+</Property><Property Name="User Options File" Value="C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame.suo">
+</Property><Property Name="Date" Value="23 March 2020">
+</Property><Property Name="Time" Value="09:20">
+</Property><Property Name="Solution" Value="GermGame">
+</Property><Property Name="Solution File" Value="C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame.sln">
+</Property><Property Name="Date" Value="23 March 2020">
+</Property><Property Name="Time" Value="09:21:01">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="GermGame.sln" Description="File successfully backed up as C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\Backup\GermGame.sln">
+</Event><Event ErrorLevel="0" Project="" Source="GermGame.suo" Description="File successfully backed up as C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\Backup\GermGame.suo">
+</Event><Event ErrorLevel="0" Project="GermGame" Source="GermGame\GermGame.csproj" Description="Upgraded XNA Game Studio project to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="GermGame" Source="GermGame\GermGame.csproj" Description="Project file successfully backed up as C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\Backup\GermGame\GermGame.csproj">
+</Event><Event ErrorLevel="0" Project="GermGame" Source="GermGame\GermGame.csproj.user" Description="Project user file successfully backed up as C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\Backup\GermGame\GermGame.csproj.user">
+</Event><Event ErrorLevel="0" Project="GermGame" Source="GermGame\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\Backup\GermGame\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="GermGame" Source="GermGame\Program.cs" Description="File successfully backed up as C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\Backup\GermGame\Program.cs">
+</Event><Event ErrorLevel="0" Project="GermGame" Source="GermGame\GermGame.cs" Description="File successfully backed up as C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\Backup\GermGame\GermGame.cs">
+</Event><Event ErrorLevel="0" Project="GermGame" Source="GermGame\GermGame_TemporaryKey.pfx" Description="File successfully backed up as C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\Backup\GermGame\GermGame_TemporaryKey.pfx">
+</Event><Event ErrorLevel="0" Project="GermGame" Source="GermGame\Game.ico" Description="File successfully backed up as C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\Backup\GermGame\Game.ico">
+</Event><Event ErrorLevel="0" Project="GermGame" Source="GermGame\GameThumbnail.png" Description="File successfully backed up as C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\Backup\GermGame\GameThumbnail.png">
+</Event><Event ErrorLevel="0" Project="GermGame" Source="GermGame\GermGame.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="GermGame" Source="GermGame\GermGame.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="GermGame.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="GermGame.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="GermGame" Source="GermGame\GermGame.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="GermGame" Source="GermGame\GermGame.csproj" Description="Upgraded XNA Framework references to XNA Framework 4.0.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="font.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="instructionsFont.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="instructionsFontTitle.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="keyFont.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="menuButton.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="menuTitle.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="popUpFont.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="smallFont.spritefont" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="bg.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="enemy1.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="enemy2.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="enemy3.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="highscorebg.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="instructionsbg.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="invisible.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="menubg.jpg" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="popup.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="spritesheet.png" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="Content.contentproj" Source="Content.contentproj" Description="Copied XNA Game Studio Content Project content to backup location.">
+</Event><Event ErrorLevel="0" Project="GermGameContent" Source="GermGame\Content\GermGameContent.contentproj" Description="Upgraded XNA Game Studio nested content projects to XNA Framework 4.0 and promoted to sibling project.">
+</Event></UpgradeLog>

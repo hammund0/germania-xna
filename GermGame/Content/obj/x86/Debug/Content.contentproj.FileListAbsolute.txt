@@ -1,0 +1,4 @@
+J:\Unit 12\Unit 12 Germ Game\GermGame\GermGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Unit 12\Unit 12 Germ Game\GermGame\GermGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Unit 12\Unit 12 Germ Game\GermGame\GermGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\Content\obj\x86\Debug\ResolveAssemblyReference.cache

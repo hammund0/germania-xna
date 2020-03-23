@@ -1,0 +1,208 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>images\bg.png</Source>
+      <Name>images\bg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\images\bg.xnb</Output>
+      <Time>2020-03-23T00:31:30.3160101+00:00</Time>
+    </Item>
+    <Item>
+      <Source>images\spritesheet.png</Source>
+      <Name>images\spritesheet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\images\spritesheet.xnb</Output>
+      <Time>2020-03-23T00:31:30.573374+00:00</Time>
+    </Item>
+    <Item>
+      <Source>images\enemy1.png</Source>
+      <Name>images\enemy1</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\images\enemy1.xnb</Output>
+      <Time>2020-03-23T00:31:30.3373681+00:00</Time>
+    </Item>
+    <Item>
+      <Source>images\enemy2.png</Source>
+      <Name>images\enemy2</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\images\enemy2.xnb</Output>
+      <Time>2020-03-23T00:31:30.3875594+00:00</Time>
+    </Item>
+    <Item>
+      <Source>images\enemy3.png</Source>
+      <Name>images\enemy3</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\images\enemy3.xnb</Output>
+      <Time>2020-03-23T00:31:30.4078495+00:00</Time>
+    </Item>
+    <Item>
+      <Source>images\invisible.png</Source>
+      <Name>images\invisible</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\images\invisible.xnb</Output>
+      <Time>2020-03-23T00:31:30.4911457+00:00</Time>
+    </Item>
+    <Item>
+      <Source>images\popup.png</Source>
+      <Name>images\popup</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\images\popup.xnb</Output>
+      <Time>2020-03-23T00:31:30.5498802+00:00</Time>
+    </Item>
+    <Item>
+      <Source>images\menubg.jpg</Source>
+      <Name>images\menubg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\images\menubg.xnb</Output>
+      <Time>2020-03-23T00:31:30.5210469+00:00</Time>
+    </Item>
+    <Item>
+      <Source>images\highscorebg.jpg</Source>
+      <Name>images\highscorebg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\images\highscorebg.xnb</Output>
+      <Time>2020-03-23T00:31:30.4398865+00:00</Time>
+    </Item>
+    <Item>
+      <Source>images\instructionsbg.jpg</Source>
+      <Name>images\instructionsbg</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\images\instructionsbg.xnb</Output>
+      <Time>2020-03-23T00:31:30.4633803+00:00</Time>
+    </Item>
+    <Item>
+      <Source>font\font.spritefont</Source>
+      <Name>font\font</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\font\font.xnb</Output>
+      <Time>2020-03-23T00:31:30.1237881+00:00</Time>
+    </Item>
+    <Item>
+      <Source>font\popUpFont.spritefont</Source>
+      <Name>font\popUpFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\font\popUpFont.xnb</Output>
+      <Time>2020-03-23T00:31:30.2551398+00:00</Time>
+    </Item>
+    <Item>
+      <Source>font\smallFont.spritefont</Source>
+      <Name>font\smallFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\font\smallFont.xnb</Output>
+      <Time>2020-03-23T00:31:30.274362+00:00</Time>
+    </Item>
+    <Item>
+      <Source>font\menuTitle.spritefont</Source>
+      <Name>font\menuTitle</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\font\menuTitle.xnb</Output>
+      <Time>2020-03-23T00:31:30.2252386+00:00</Time>
+    </Item>
+    <Item>
+      <Source>font\menuButton.spritefont</Source>
+      <Name>font\menuButton</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\font\menuButton.xnb</Output>
+      <Time>2020-03-23T00:31:30.2060164+00:00</Time>
+    </Item>
+    <Item>
+      <Source>font\instructionsFont.spritefont</Source>
+      <Name>font\instructionsFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\font\instructionsFont.xnb</Output>
+      <Time>2020-03-23T00:31:30.1451461+00:00</Time>
+    </Item>
+    <Item>
+      <Source>font\instructionsFontTitle.spritefont</Source>
+      <Name>font\instructionsFontTitle</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\font\instructionsFontTitle.xnb</Output>
+      <Time>2020-03-23T00:31:30.1643683+00:00</Time>
+    </Item>
+    <Item>
+      <Source>font\keyFont.spritefont</Source>
+      <Name>font\keyFont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\font\keyFont.xnb</Output>
+      <Time>2020-03-23T00:31:30.1857263+00:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\Content\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\Content\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\LH\Desktop\GermGame\Unit 12 Germ Game\GermGame\GermGame\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T13:41:18+01:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2020-03-23T09:18:01.0381314+00:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
